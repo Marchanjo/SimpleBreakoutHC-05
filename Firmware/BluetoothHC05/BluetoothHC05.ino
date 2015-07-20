@@ -7,15 +7,13 @@ char c;
 
 void setup() 
 {
-    // We need to match the baud rate of the bluetooth module.
-    // 9600 is not universal. You may need to try different rates. Another common speed is 38400
-    Serial1.begin(9600); 
+    Serial1.begin(9600); //Pode ser outra velocidade, está é a mais comum
     delay(100);
 }
  
 void loop() 
 {
-    Serial1.println("Bluetooth Test"); 
+    Serial1.println("Teste"); 
     delay(1000); 
     if (Serial1.available() > 0)
         {
