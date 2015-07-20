@@ -7,12 +7,18 @@ Este projeto contempla os arquivos necessários para fazer esta breakout board b
 
 Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2014/12/sistema-de-controle-pelo-labio-mouse.html](http://marchanjo.blogspot.com.br/2014/12/sistema-de-controle-pelo-labio-mouse.html)
 
+*Esquemático:*
+![Esquemático](https://github.com/Marchanjo/SimpleBreakoutHC-05/blob/master/Doc/Schematic-HC05.png)
+
+*PCB:*
+![PCB](https://github.com/Marchanjo/SimpleBreakoutHC-05/blob/master/Doc/Board-HC05.png)
+
 
 
 Mapa do projeto
 ---------------
 * **/Firmware** - Código Arduino
-* **/Hardware** - Arquivos de design, formato do EAGLE
+* **/Hardware** - Arquivos de design Eagle esquemático, PCB, figuras e Gerbers.
 
 Licença
 -------
