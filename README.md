@@ -13,9 +13,8 @@ Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2015/07/breako
 *PCB:*
 ![PCB](https://github.com/Marchanjo/SimpleBreakoutHC-05/blob/master/Hardware/Board-HC05.png)
 
-
-
-https://github.com/Marchanjo/SimpleBreakoutHC-05/blob/master/Hardware/final.jpg
+*Placa montada:*
+![PCB](https://github.com/Marchanjo/SimpleBreakoutHC-05/blob/master/Hardware/final.jpg)
 
 Mapa do projeto
 ---------------
