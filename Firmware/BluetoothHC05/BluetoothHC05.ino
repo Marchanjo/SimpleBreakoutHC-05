@@ -7,7 +7,7 @@ char c;
 
 void setup() 
 {
-    Serial1.begin(9600); //Pode ser outra velocidade, está é a mais comum
+    Serial1.begin(9600); //Pode ser outra velocidade, esta é a mais comum
     delay(100);
 }
  
